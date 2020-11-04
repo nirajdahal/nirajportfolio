@@ -65,33 +65,9 @@ Version: 1.0
 
 
 
-		/**********************************************************/
-        /* CUSTOMIZABLE SCROLLBAR                                 */
-        /**********************************************************/
-        // $("html").niceScroll({
-        //     mousescrollstep: 40,
-        //     cursorcolor: "#ff3030",
-        //     zindex: 9999,
-        //     cursorborder: "none",
-        //     cursorwidth: "6px",
-        //     cursorborderradius: "none",
-        //     horizrailenabled:false
-        // });
-
 	});
-	//END DOCUMENT.READY FUNCTION
-
-	
 
 })(jQuery);
 
 
 
-// $(document).ready(function(){
-// 	$('.link').hover(function() {
-// 		$(this).addClass('transition');
-
-// 	}, function() {
-// 		$(this).removeClass('transition');
-// 	});
-// });
