@@ -1231,7 +1231,8 @@ padding-top: 50px; }
       color: #fff;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-      background: rgba(11, 206, 175, 0.9); }
+      background: #c7839b;
+    opacity: 0.9; }
       .mh-project-gallery .grid-item figure:hover figcaption:after {
         opacity: 1;
         transform: translateX(0) translateY(0) translateZ(0) rotate(0deg) scale(1);
