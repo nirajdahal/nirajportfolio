@@ -766,7 +766,7 @@ padding-top: 50px; }
     .mh-about-tag ul li span {
       border: 1px solid #dc3545;
       padding: 4px 10px;
-      border-radius: 4px; }
+       }
       .mh-about-tag ul li span:hover {
         background-color: transparent !important; }
 
