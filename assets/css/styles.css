@@ -213,7 +213,7 @@ a {
  * -----------------
  */
 .social-icon {
-  display: inline-block; }
+  display: inline-flex; }
   .social-icon li {
     list-style: none;
     float: left;
